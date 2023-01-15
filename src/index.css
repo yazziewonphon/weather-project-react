@@ -1,0 +1,17 @@
+.container-card {
+  padding: 2em 1em 0 1em;
+}
+.container-card-border {
+  border: none;
+  background-image: linear-gradient(
+      rgba(55, 49, 99, 0.5),
+      rgba(233, 213, 202, 0.7)
+    ),
+    url("/images/renato-ramos-puma-qcuaS2_jw4k-unsplash.jpg");
+  object-fit: contain;
+  margin: 40px 0;
+}
+.current-city-weather {
+  display: flex;
+  justify-content: space-evenly;
+}
