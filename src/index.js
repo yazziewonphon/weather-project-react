@@ -2,7 +2,6 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
 import "bootstrap/dist/css/bootstrap.min.css";
-import axios from "axios";
 import reportWebVitals from "./reportWebVitals";
 
 import Navigation from "./Navigation";
