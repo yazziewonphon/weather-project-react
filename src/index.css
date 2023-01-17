@@ -1,14 +1,14 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
 .container-card {
@@ -20,7 +20,7 @@ code {
       rgba(55, 49, 99, 0.5),
       rgba(233, 213, 202, 0.7)
     ),
-    url("C:\Users\yazzi\Desktop\weather-project-react\public\images\renato-ramos-puma-qcuaS2_jw4k-unsplash.jpg");
+    url("public\images\renato-ramos-puma-qcuaS2_jw4k-unsplash.jpg");
   object-fit: contain;
   margin: 40px 0;
 }
